@@ -1,0 +1,28 @@
+#teste {
+    color: red;
+}
+
+button.btn, button.op {
+    color: blue;
+    width: 25%;
+    float: left;
+}
+
+button.res {
+    color: blue;
+    width: 75%;
+    float: left;
+}
+
+.buttons {
+    border: 1px solid gold;
+}
+
+.buttons button {
+    padding: 4%;
+}
+
+.tx {
+    padding: 4%;
+    font-size: 20px;
+}
